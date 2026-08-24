@@ -8,7 +8,7 @@ json{
     {
       "id": "cliente_002",
       "nombre": "Maria Lopez",
-      "activo": false
+      "activo": true
     }
   ]
 }
