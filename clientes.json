@@ -1,0 +1,14 @@
+json{
+  "clientes": [
+    {
+      "id": "cliente_001",
+      "nombre": "Juan Perez",
+      "activo": true
+    },
+    {
+      "id": "cliente_002",
+      "nombre": "Maria Lopez",
+      "activo": false
+    }
+  ]
+}
