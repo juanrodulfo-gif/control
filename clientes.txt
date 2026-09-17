@@ -1,3 +1,4 @@
 cliente_001,activo
 cliente_002,bloqueado
 cliente_003,activo
+cliente_11383928,activo
